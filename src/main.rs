@@ -2,6 +2,7 @@ const MAXVAL : f32 =5000.0;
 fn main() {
     println!("Hello, world!");
     println!("Hello, world!");
+    println!("Hello, world!");
 
     let x:f32 = -5.3;
     println!("The value of x is {} ", x);
